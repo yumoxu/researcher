@@ -2,44 +2,37 @@
 layout: default
 ---
 
-## About Me
+## ABOUT ME
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="photo.JPG">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a PhD student at [ILCC](http://web.inf.ed.ac.uk/ilcc), the University of Edinburgh. I am supervised by [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) and fully-funded by [ARIMA](https://www.iarpa.gov/). I am also a memeber of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Research Interest
+## RESEARCH INTEREST
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Deep learning and probabilistic models for natural language processing, i.e. summarisation and machine translation.
 
-## Publications
+## EDUCATION
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+* ILCC, The University of Edinburgh, Ph.D. student, Jan. 2018-Present
+* ILCC, The University of Edinburgh, M.S. (with Distinction), Oct. 2017
+* School of Informatics, University of International Business and Economics (UIBE), B.S., June 2016
+* School of Informatics, University of International Business and Economics (UIBE), B.S., June 2016
+	* Winter session: HongKong University, Hongkong, China, Feb. 2015 
+	* Summer session: INSEAD, Paris, France, July 2014
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## PROFESSIONAL EXPERIENCE
 
-Here is a table
+* Beijing Development Center, Oracle, Data Analyst, May 2016-June 2016
+* China Development Lab, International Business Machines (IBM), Big Data Backend Developer, Aug. 2015-Jan. 2016
+* R\&D Department, Wecash Finance Technology, Software Developer, July 2014-Nov. 2014
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## HONORS AND AWARDS
+* University Outstanding Graduation Dissertation 1st, UIBE
+* University of International Business and Economics, Comprehensive Scholarship *2, UIBE                        
+* First Prize of the China Undergraduate Mathematical Contest in Modeling, Beijing
+* Championship of the European Entrepreneurship Speech Competition, Brussels      
+* Championship of the Mobile Application Development Challenge 1st, Beijing
+* Grand prize of the E-Commerce Innovation Challenge, Beijing       

@@ -3,20 +3,18 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+Email: [s1617290@sms.ed.ac.uk](mailto:s1617290@sms.ed.ac.uk)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 10 Crichton Street
 >
-> London
+> Edinburgh, EH8 9AB
 >
-> United Kingdom
-
+> Scotland, UK
+> 
 ---
 
 ## Social
