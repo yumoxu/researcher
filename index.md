@@ -46,10 +46,10 @@ July 2014 - Nov. 2014
 Software Developer, **Wecash**
 
 ## HONORS AND AWARDS
-* MATERIAL PhD Studentship, The University of Edinburgh
-* University Outstanding Graduation Dissertation 1st, UIBE
-* Comprehensive Scholarship *2, UIBE                        
-* First Prize of the China Undergraduate Mathematical Contest in Modeling, Beijing
-* Championship of the European Entrepreneurship Speech Competition, Brussels      
-* Championship of the Mobile Application Development Challenge 1st, Beijing
-* Grand prize of the E-Commerce Innovation Challenge, Beijing       
+MATERIAL PhD Studentship  
+University Outstanding Undergraduate Dissertation 1st  
+Comprehensive Scholarship \* 2  
+First Prize of the China Undergraduate Mathematical Contest in Modeling (Beijing Region) 
+Grand prize of the E-Commerce Innovation Challenge (Beijing Region)       
+Championship of the Mobile Application Development Challenge  
+Championship of the European Entrepreneurship Speech Competition  
