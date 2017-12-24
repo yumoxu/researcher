@@ -46,13 +46,13 @@ July 2014 - Nov. 2014
 Software Developer, **Wecash**
 
 ## HONORS AND AWARDS
-MATERIAL PhD Studentship  
-University Outstanding Undergraduate Dissertation 1st  
-Comprehensive Scholarship \* 2  
-First Prize of the China Undergraduate Mathematical Contest in Modeling (Beijing Region)  
-Grand prize of the E-Commerce Innovation Challenge (Beijing Region)  
-Championship of the Mobile Application Development Challenge  
-Championship of the European Entrepreneurship Speech Competition  
+* MATERIAL PhD Studentship  
+* University Outstanding Undergraduate Dissertation 1st  
+* Comprehensive Scholarship \* 2  
+* Championship of the Mobile Application Development Challenge  
+* Championship of the European Entrepreneurship Speech Competition 
+* First Prize of the China Undergraduate Mathematical Contest in Modeling in Beijing 
+* Grand prize of the E-Commerce Innovation Challenge in Beijing 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 &nbsp;&nbsp;
