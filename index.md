@@ -49,8 +49,8 @@ Software Developer, **Wecash**
 MATERIAL PhD Studentship  
 University Outstanding Undergraduate Dissertation 1st  
 Comprehensive Scholarship \* 2  
-First Prize of the China Undergraduate Mathematical Contest in Modeling (Beijing Region) 
-Grand prize of the E-Commerce Innovation Challenge (Beijing Region)       
+First Prize of the China Undergraduate Mathematical Contest in Modeling (Beijing Region)  
+Grand prize of the E-Commerce Innovation Challenge (Beijing Region)  
 Championship of the Mobile Application Development Challenge  
 Championship of the European Entrepreneurship Speech Competition  
 &nbsp;&nbsp;
