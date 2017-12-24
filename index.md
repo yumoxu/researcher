@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.JPG">
 
-Hi! I am a PhD student at [ILCC](http://web.inf.ed.ac.uk/ilcc), the University of Edinburgh. I am supervised by [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) and fully-funded by [ARIMA](https://www.iarpa.gov/). I am also a memeber of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/).
+Hi! I am a PhD student in [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) at the University of Edinburgh. I am supervised by [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) and fully-funded by [IARPA](https://www.iarpa.gov/). I am also a memeber of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/).
 
 
 ## RESEARCH INTEREST
@@ -15,21 +15,38 @@ Deep learning and probabilistic models for NLP, i.e. summarisation and machine t
 
 ## EDUCATION
 
-* ILCC, The University of Edinburgh, Ph.D. student, Jan. 2018-Present
-* ILCC, The University of Edinburgh, M.S. with Distinction, Oct. 2017
-* School of Informatics, University of International Business and Economics (UIBE), B.S., June 2016
-* School of Infomation Technology and Management, University of International Business and Economics (UIBE), B.S., June 2016
-	* Winter session: HongKong University, Hongkong, China, Feb. 2015 
-	* Summer session: INSEAD, Paris, France, July 2014
+Jan. 2018 - Present  
+Ph.D. student, ILCC, **The University of Edinburgh**  
+Supervisor: Prof. Mirella Lapata
+
+Nov. 2017  
+M.S. with Distinction, ILCC, **The University of Edinburgh**  
+Supervisor: Dr. Shay Cohen
+
+June 2016  
+B.S., School of Infomation Technology and Management, **University of International Business and Economics**  
+Supervisor: Prof. Bing Li
+
+Feb. 2015  
+Winter session, **HongKong University**
+
+July 2014  
+Summer session, **INSEAD**
 
 
 ## PROFESSIONAL EXPERIENCE
 
-* Beijing Development Center, Oracle, Data Analyst, May 2016-June 2016
-* China Development Lab, IBM, Big Data Backend Developer, Aug. 2015-Jan. 2016
-* R\&D Department, Wecash, Software Developer, July 2014-Nov. 2014
+May 2016 - June 2016  
+Data Analyst, **Oracle**
+
+Aug. 2015 - Jan. 2016  
+Big Data Backend Developer, **IBM CDL**
+
+July 2014 - Nov. 2014  
+Software Developer, **Wecash**
 
 ## HONORS AND AWARDS
+* MATERIAL PhD Studentship, The University of Edinburgh
 * University Outstanding Graduation Dissertation 1st, UIBE
 * Comprehensive Scholarship *2, UIBE                        
 * First Prize of the China Undergraduate Mathematical Contest in Modeling, Beijing

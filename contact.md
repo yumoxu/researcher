@@ -10,10 +10,10 @@ Email: [s1617290@sms.ed.ac.uk](mailto:s1617290@sms.ed.ac.uk)
 ## Mailing Address
 
 > 10 Crichton Street
->
+> 
 > Edinburgh, EH8 9AB
 >
-> Scotland, UK
+> Scotland, United Kingdom
 > 
 ---
 
