@@ -6,12 +6,12 @@ layout: default
 
 <img class="profile-picture" src="photo.JPG">
 
-Hi! I am a PhD student in [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) at the University of Edinburgh. I am supervised by [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) and fully-funded by [IARPA](https://www.iarpa.gov/). I am also a memeber of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/).
+Hi! I am a first-year PhD student in Natural Language Processing at the University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and [the Edinburgh Natural Language Processing Group (EdinburghNLP)](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be supervised by [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) and fully-funded by [IARPA](https://www.iarpa.gov/).
 
 
 ## RESEARCH INTEREST
 
-Deep learning and probabilistic models for NLP, i.e. summarisation and machine translation.
+I am interested in both deep learning techniques and probabilistic models for NLP tasks, including text summarisation and machine translation. My long-term goal is properly combining the two approaches to benefit NLP applications and I am currently working on Neural Variational Inference (NVI).
 
 ## EDUCATION
 
@@ -24,7 +24,7 @@ M.S. with Distinction, ILCC, **The University of Edinburgh**
 Supervisor: Dr. Shay Cohen
 
 June 2016  
-B.S., School of Infomation Technology and Management, **University of International Business and Economics**  
+B.S., School of Informatics, **University of International Business and Economics**  
 Supervisor: Prof. Bing Li
 
 Feb. 2015  
@@ -53,3 +53,6 @@ First Prize of the China Undergraduate Mathematical Contest in Modeling (Beijing
 Grand prize of the E-Commerce Innovation Challenge (Beijing Region)       
 Championship of the Mobile Application Development Challenge  
 Championship of the European Entrepreneurship Speech Competition  
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
