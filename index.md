@@ -20,7 +20,7 @@ Ph.D. student, ILCC, **The University of Edinburgh**
 Supervisor: Prof. Mirella Lapata
 
 Sept. 2016 - Nov. 2017  
-M.S. with Distinction, ILCC, **The University of Edinburgh**  
+M.S. (with Distinction), ILCC, **The University of Edinburgh**  
 Supervisor: Dr. Shay Cohen
 
 Sept. 2012 - July 2016  
