@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.JPG">
 
-Hi! I am a first-year PhD student in Natural Language Processing at the University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and [the Edinburgh Natural Language Processing Group (EdinburghNLP)](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be supervised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (principle) and [Dr. Shay Cohen] (http://homepages.inf.ed.ac.uk/scohen/). I am funded by [IARPA](https://www.iarpa.gov/).
+Hi! I am a first-year PhD student in Natural Language Processing at the University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and [the Edinburgh Natural Language Processing Group (EdinburghNLP)](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be supervised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (principle) and [Dr. Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
 
 
 ## RESEARCH INTEREST
@@ -17,15 +17,19 @@ I am interested in both deep learning techniques and probabilistic models for NL
 
 Feb. 2018 - Present  
 Ph.D. student, ILCC, **The University of Edinburgh**  
-Supervisor: Prof. Mirella Lapata and Dr. Shay Cohen
+- Specialisation area: text summarisation  
+- Supervisor: Prof. Mirella Lapata and Dr. Shay Cohen  
+- Funder: [IARPA](https://www.iarpa.gov/)
 
 Sept. 2016 - Nov. 2017  
-M.S. (with Distinction), ILCC, **The University of Edinburgh**  
-Supervisor: Dr. Shay Cohen
+M.S. (with Distinction), School of Informatics, **The University of Edinburgh**  
+- Specialisation area: NLP and machine learning  
+- Supervisor: Dr. Shay Cohen
 
 Sept. 2012 - July 2016  
 B.S., School of Informatics, **University of International Business and Economics**  
-Supervisor: Prof. Bing Li
+- Specialisation area: text mining and social computing  
+- Supervisor: Prof. Bing Li
 
 Feb. 2015  
 Winter session, **HongKong University**
