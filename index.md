@@ -15,19 +15,16 @@ I am interested in both deep learning techniques and probabilistic models for NL
 
 ### EDUCATION
 
-Feb. 2018 - Present  
-Ph.D. student, ILCC, The University of Edinburgh  
+Ph.D. student, ILCC, The University of Edinburgh, Feb. 2018 -  
 - Area of research: text summarisation  
 - Supervisor: Prof. Mirella Lapata and Dr. Shay Cohen  
 - Funder: [IARPA](https://www.iarpa.gov/)
 
-Sept. 2016 - Nov. 2017  
-M.S. (with Distinction), School of Informatics, The University of Edinburgh  
+M.S. (with Distinction), School of Informatics, The University of Edinburgh, Nov. 2017  
 - Area of study: NLP and machine learning  
 - Supervisor: Dr. Shay Cohen
 
-Sept. 2012 - July 2016  
-B.S., School of Informatics, University of International Business and Economics  
+B.S., School of Informatics, University of International Business and Economics, July 2016  
 - Area of study: text mining and social computing  
 - Supervisor: Prof. Bing Li  
 - Winter session: HongKong University, Feb. 2015  
