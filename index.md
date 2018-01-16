@@ -18,7 +18,7 @@ I am interested in both deep learning techniques and probabilistic models for NL
 Ph.D. student, ILCC, The University of Edinburgh, Feb. 2018 -  
 - Area of research: text summarisation  
 - Supervisor: Prof. Mirella Lapata and Dr. Shay Cohen  
-- Funder: [IARPA](https://www.iarpa.gov/)
+- Sponsor: [IARPA](https://www.iarpa.gov/)
 
 M.S. (with Distinction), School of Informatics, The University of Edinburgh, Nov. 2017  
 - Area of study: NLP and machine learning  
