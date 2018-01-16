@@ -1,13 +1,12 @@
 ---
 layout: default
 ---
-<!--
+
 ### ABOUT ME
--->
 
 <img class="profile-picture" src="photo.JPG">
 
-Hi! I am a first-year PhD student in Natural Language Processing at the University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and [the Edinburgh Natural Language Processing Group (EdinburghNLP)](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be supervised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (principle) and [Dr. Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
+Welcome! I am a first-year PhD student in Natural Language Processing at the University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and [the Edinburgh Natural Language Processing Group (EdinburghNLP)](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be supervised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (principle) and [Dr. Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
 
 
 ### RESEARCH INTEREST
