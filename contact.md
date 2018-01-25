@@ -19,6 +19,4 @@ Email: [s1617290@sms.ed.ac.uk](mailto:s1617290@sms.ed.ac.uk)
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](twitter.com/yumo_xu)
