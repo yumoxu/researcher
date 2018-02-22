@@ -19,4 +19,5 @@ Email: [s1617290@sms.ed.ac.uk](mailto:s1617290@sms.ed.ac.uk)
 
 ## Social
 
-1. [Twitter](twitter.com/yumo_xu)
+1. [LinkedIn](https://www.linkedin.com/in/yumo-xu-aa81aba5)
+2. [Twitter](https://twitter.com/yumo_xu)
