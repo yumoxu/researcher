@@ -9,7 +9,7 @@ layout: default
 Welcome! I am a first-year PhD student in Natural Language Processing (NLP) at The University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be supervised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (principle) and [Dr. Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
 
 My office is at IF 5.08. Check out my [LinkedIn](https://www.linkedin.com/in/yumo-xu-aa81aba5)
-and [Twitter](https://twitter.com/yumo_xu), or [email me] (mailto:s1617290@sms.ed.ac.uk).   
+and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:s1617290@sms.ed.ac.uk).   
 
 ## Research Interest
 
