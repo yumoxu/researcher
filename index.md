@@ -17,7 +17,7 @@ I am interested in both deep learning techniques and probabilistic models for NL
 
 # **Education**
 
-Ph.D. student, School of Informatics, The University of Edinburgh, Mar. 2018 -  
+Ph.D. student, School of Informatics, The University of Edinburgh, Mar. 2018 - Present  
 M.S. (with Distinction), School of Informatics, The University of Edinburgh, Nov. 2017  
 B.S., School of Informatics, University of International Business and Economics, July 2016  
 Winter session, HongKong University, Feb. 2015  
