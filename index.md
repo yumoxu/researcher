@@ -23,6 +23,8 @@ B.S., School of Informatics, University of International Business and Economics,
 Winter session, HongKong University, Feb. 2015  
 Summer session, INSEAD, July 2014  
 
+# Publication
+**Yumo Xu** and Shay B. Cohen. 2018. *Stock Movement Prediction from Tweets and Historical Prices*. To appear at ACL 2018.
 
 # Professional Experience
 
