@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+# **About Me**
 
 <img class="profile-picture" src="photo.JPG">
 
@@ -11,11 +11,11 @@ Welcome! I am a first-year PhD student in Natural Language Processing (NLP) at T
 My office is at IF 5.08. Check out my [LinkedIn](https://www.linkedin.com/in/yumo-xu-aa81aba5)
 and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:s1617290@sms.ed.ac.uk).   
 
-# Research Interest
+# **Research Interest**
 
 I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization. My long-term goal is to combine the two approaches properly and I am currently working on Neural Variational Inference (NVI).
 
-# Education
+# **Education**
 
 Ph.D. student, School of Informatics, The University of Edinburgh, Mar. 2018 -  
 M.S. (with Distinction), School of Informatics, The University of Edinburgh, Nov. 2017  
@@ -23,10 +23,10 @@ B.S., School of Informatics, University of International Business and Economics,
 Winter session, HongKong University, Feb. 2015  
 Summer session, INSEAD, July 2014  
 
-# Publication
+# **Publication**
 **Yumo Xu** and Shay B. Cohen. 2018. *Stock Movement Prediction from Tweets and Historical Prices*. To appear at ACL 2018.
 
-# Professional Experience
+# **Professional Experience**
 
 Data Analyst, Oracle, May 2016 - June 2016  
 Big Data Backend Developer, IBM CDL, Aug. 2015 - Jan. 2016  
