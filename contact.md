@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-Email: [s1617290@sms.ed.ac.uk](mailto:s1617290@sms.ed.ac.uk)
+Email: [yumo.xu@ed.ac.uk](mailto:yumo.xu@ed.ac.uk)
 
 ---
 
