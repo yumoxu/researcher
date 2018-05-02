@@ -26,7 +26,7 @@ Winter session, HongKong University, Feb. 2015
 Summer session, INSEAD, July 2014  
 
 # **Publication**
-**Yumo Xu** and Shay B. Cohen. *Stock Movement Prediction from Tweets and Historical Prices*. Association for Computational Linguistics (ACL), Long paper, 2018. [[pdf]]()[[data]](https://github.com/yumoxu/stocknet-dataset)[[bib]](./acl18-stocknet.bib)
+**Yumo Xu** and Shay B. Cohen. *Stock Movement Prediction from Tweets and Historical Prices*. Association for Computational Linguistics (ACL), Long paper, 2018. [[pdf]]()[[data]](https://github.com/yumoxu/stocknet-dataset)[[bib]](https://yumoxu.github.io/acl18-stocknet.bib)
 
 # **Professional Experience**
 
