@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **About Me**
+# About
 
 <img class="profile-picture" src="photo.JPG">
 
@@ -13,11 +13,14 @@ My office is at IF 5.08.
 Check out my [Github](https://github.com/yumoxu), [LinkedIn](https://www.linkedin.com/in/yumo-xu-aa81aba5)
 and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:yumo.xu@ed.ac.uk).   
 
-# **Research Interest**
+# Research
 
 I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to combine the two approaches properly and I am currently working on Neural Variational Inference (NVI).
 
-# **Education**
+# Publication
+**Yumo Xu** and Shay B. Cohen. *Stock Movement Prediction from Tweets and Historical Prices*. Association for Computational Linguistics (ACL), Long paper, 2018. [[pdf]]()[[data]](https://github.com/yumoxu/stocknet-dataset)[[bib]](https://yumoxu.github.io/acl18-stocknet.bib)
+
+# Education
 
 Ph.D. student, School of Informatics, The University of Edinburgh, Mar. 2018 - Present  
 M.S. (with Distinction), School of Informatics, The University of Edinburgh, Nov. 2017  
@@ -25,10 +28,7 @@ B.S., School of Informatics, University of International Business and Economics,
 Winter session, HongKong University, Feb. 2015  
 Summer session, INSEAD, July 2014  
 
-# **Publication**
-**Yumo Xu** and Shay B. Cohen. *Stock Movement Prediction from Tweets and Historical Prices*. Association for Computational Linguistics (ACL), Long paper, 2018. [[pdf]]()[[data]](https://github.com/yumoxu/stocknet-dataset)[[bib]](https://yumoxu.github.io/acl18-stocknet.bib)
-
-# **Professional Experience**
+# Professional
 
 Data Analyst, Oracle, May 2016 - June 2016  
 Big Data Backend Developer, IBM CDL, Aug. 2015 - Jan. 2016  
