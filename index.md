@@ -18,7 +18,7 @@ and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:yumo.xu@ed.ac.u
 I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to combine the two approaches properly and I am currently working on Neural Variational Inference (NVI).
 
 # Publication
-**Yumo Xu** and Shay B. Cohen. *Stock Movement Prediction from Tweets and Historical Prices*. Association for Computational Linguistics (ACL), Long paper, 2018. [[pdf]](https://yumoxu.github.io/_res/acl18-stocknet.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[bib]](https://yumoxu.github.io/_res/acl18-stocknet.bib)
+**Yumo Xu** and Shay B. Cohen. *Stock Movement Prediction from Tweets and Historical Prices*. Association for Computational Linguistics (ACL), Long paper, 2018. [[pdf]](https://yumoxu.github.io/res/acl18-stocknet.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[bib]](https://yumoxu.github.io/res/acl18-stocknet.bib)
 
 # Education
 
