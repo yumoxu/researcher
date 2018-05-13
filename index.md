@@ -34,27 +34,6 @@ Data Analyst, Oracle, May 2016 - June 2016
 Big Data Backend Developer, IBM CDL, Aug. 2015 - Jan. 2016  
 Software Developer, Wecash, July 2014 - Nov. 2014
 
-<!--
-- Area of research: text summarisation  
-- Supervisor: Prof. Mirella Lapata and Dr. Shay Cohen  
-- Sponsor: [IARPA](https://www.iarpa.gov/)
-
-- Area of study: NLP and machine learning  
-- Supervisor: Dr. Shay Cohen
-
-- Area of study: text mining and social computing  
-- Supervisor: Prof. Bing Li  
-
-
-## HONORS AND AWARDS
-* MATERIAL PhD Studentship, UoE  
-* Comprehensive Scholarship \* 2, UIBE  
-* University Outstanding Graduation Dissertation 1st, UIBE  
-* Mobile Application Development Challenge 1st, UIBE
-* Entrepreneurship Summer School "Presentation to Investors" 1st, Brussels 
-* China Undergraduate Mathematical Contest in Modeling, First Prize, Beijing 
-* Electronic Commerce Innovation Challenge, Grand Prize, Beijing 
--->
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 &nbsp;&nbsp;
