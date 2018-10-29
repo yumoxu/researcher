@@ -34,6 +34,16 @@ Data Analyst, Oracle, May 2016 - June 2016
 Big Data Backend Developer, IBM CDL, Aug. 2015 - Jan. 2016  
 Software Developer, Wecash, July 2014 - Nov. 2014
 
+# Honors and Awards
+
+MATERIAL (*Machine Translation for English Retrieval of Information in Any Language*) Scholarship, Edinburgh 
+ILCC PhD Scholarship, Edinburgh 
+University Outstanding Undergraduate Graduation Dissertation (1/120), Beijing 
+Comprehensive Undergraduate Scholarship (twice), Beijing
+First Prize of the China Undergraduate Mathematical Contest in Modeling, Beijing 
+Championship of the European Entrepreneurship Speech Competition, Brussels Championship of the Mobile Application Development Challenge, Beijing 
+Grand prize of the E-Commerce Innovation Challenge, Beijing
+
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 &nbsp;&nbsp;
