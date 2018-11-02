@@ -15,7 +15,7 @@ and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:yumo.xu@ed.ac.u
 
 # Research
 
-I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to combine the two approaches properly and I am currently working on Neural Variational Inference (NVI).
+I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis in weakly supervised settings. My long-term goal is to combine the two approaches properly and I am currently working on Neural Variational Inference (NVI).
 
 # Publication
 **Yumo Xu** and Shay B. Cohen. *Stock Movement Prediction from Tweets and Historical Prices*. Association for Computational Linguistics (ACL), Long paper (**oral**), 2018. [[pdf]](http://aclweb.org/anthology/P18-1183)[[slides]](res/stocknet_slides.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib)
@@ -36,7 +36,7 @@ Software Developer, Wecash, July 2014 - Nov. 2014
 
 # Honors and Awards
 
-MATERIAL (*Machine Translation for English Retrieval of Information in Any Language*) Scholarship, Edinburgh  
+ [IARPA MATERIAL](https://www.iarpa.gov/index.php/research-programs/material) Scholarship, Edinburgh  
 ILCC PhD Scholarship, Edinburgh   
 University Outstanding Undergraduate Graduation Dissertation (1/120), Beijing  
 Comprehensive Undergraduate Scholarship (twice), Beijing  
