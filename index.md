@@ -34,6 +34,8 @@ Data Analyst, Oracle, May 2016 - June 2016
 Big Data Backend Developer, IBM CDL, Aug. 2015 - Jan. 2016  
 Software Developer, Wecash, July 2014 - Nov. 2014
 
+Reviewer of EMNLP and Engineering Journal
+
 # Honors and Awards
 
  [IARPA MATERIAL](https://www.iarpa.gov/index.php/research-programs/material) Scholarship, Edinburgh  
