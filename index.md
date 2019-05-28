@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Welcome! I am a first-year PhD student in Natural Language Processing (NLP) at the University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and also a member of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be supervised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (principle) and [Dr. Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
+Welcome! I am a second-year PhD student in Natural Language Processing (NLP) at the University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and also a member of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be supervised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (principle) and [Dr. Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
 
 My office is at IF 3.34.   
 
@@ -15,7 +15,7 @@ and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:yumo.xu@ed.ac.u
 
 # Research
 
-I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis in weakly supervised settings. My long-term goal is to combine the two approaches properly and I am currently working on Neural Variational Inference (NVI).
+I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to benefit natural language understanding from distant signals in weakly supervised settings and I am currently working on Multiple Instance Learning (MIL) for Domain Detection and Summarization.
 
 # Publication
 **Yumo Xu** and Shay B. Cohen. *Stock Movement Prediction from Tweets and Historical Prices*. Association for Computational Linguistics (ACL), Long paper (**oral**), 2018. [[pdf]](http://aclweb.org/anthology/P18-1183)[[slides]](res/stocknet_slides.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[code]](https://github.com/yumoxu/stocknet-code)[[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib)
