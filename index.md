@@ -10,15 +10,14 @@ Welcome! I am a second-year PhD student in Natural Language Processing (NLP) at 
 
 My office is at IF 3.34.   
 
-Check out my [Github](https://github.com/yumoxu), [LinkedIn](https://www.linkedin.com/in/yumo-xu-aa81aba5)
-and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:yumo.xu@ed.ac.uk).   
+Check out my [Github](https://github.com/yumoxu), [LinkedIn](https://www.linkedin.com/in/yumo-xu-aa81aba5) and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:yumo.xu@ed.ac.uk).   
 
 # Research
 
 I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to benefit natural language understanding from distant signals in weakly supervised settings and I am currently working on Multiple Instance Learning (MIL) for Domain Detection and Summarization.
 
-# Publication
-To appear in **INTERSPEECH 2019**, <u>Trainable Dynamic Subsampling for End-to-End Speech Recognition</u>  
+# Selected Publication
+**INTERSPEECH 2019**, <u>Trainable Dynamic Subsampling for End-to-End Speech Recognition</u>  
 Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals
 
 **ACL 2018**, <u>Stock Movement Prediction from Tweets and Historical Prices</u> [[pdf]](http://aclweb.org/anthology/P18-1183)[[slides]](res/stocknet_slides.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[code]](https://github.com/yumoxu/stocknet-code)[[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib)  
