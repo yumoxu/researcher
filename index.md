@@ -18,9 +18,11 @@ and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:yumo.xu@ed.ac.u
 I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to benefit natural language understanding from distant signals in weakly supervised settings and I am currently working on Multiple Instance Learning (MIL) for Domain Detection and Summarization.
 
 # Publication
-Shucong Zhang, Erfan Loweimi, **Yumo Xu**, Peter Bell and Steve Renals. *Trainable Dynamic Subsampling for End-to-End Speech Recognition*. To appear in Annual Conference of the International Speech Communication Association (Interspeech), Long paper (**oral**), 2019. 
+To appear in **INTERSPEECH 2019**, <u>Trainable Dynamic Subsampling for End-to-End Speech Recognition</u> </br>
+Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals
 
-**Yumo Xu** and Shay B. Cohen. *Stock Movement Prediction from Tweets and Historical Prices*. Association for Computational Linguistics (ACL), Long paper (**oral**), 2018. [[pdf]](http://aclweb.org/anthology/P18-1183)[[slides]](res/stocknet_slides.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[code]](https://github.com/yumoxu/stocknet-code)[[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib)
+**ACL 2018**, <u>Stock Movement Prediction from Tweets and Historical Prices</u> [[pdf]](http://aclweb.org/anthology/P18-1183)[[slides]](res/stocknet_slides.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[code]](https://github.com/yumoxu/stocknet-code)[[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib)</br>
+**Yumo Xu** and Shay B. Cohen
 
 # Education
 
