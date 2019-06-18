@@ -22,7 +22,7 @@ To appear in **INTERSPEECH 2019**, <u>Trainable Dynamic Subsampling for End-to-E
 Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals
 
 **ACL 2018**, <u>Stock Movement Prediction from Tweets and Historical Prices</u> [[pdf]](http://aclweb.org/anthology/P18-1183)[[slides]](res/stocknet_slides.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[code]](https://github.com/yumoxu/stocknet-code)[[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib)  
-**Yumo Xu** and Shay B. Cohen
+Yumo Xu and Shay B. Cohen
 
 # Education
 
