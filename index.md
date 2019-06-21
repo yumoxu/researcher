@@ -17,10 +17,10 @@ Check out my [Github](https://github.com/yumoxu), [LinkedIn](https://www.linkedi
 I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to benefit natural language understanding from distant signals in weakly supervised settings and I am currently working on Multiple Instance Learning (MIL) for Domain Detection and Summarization.
 
 # Selected Publications
-**Interspeech 2019**, *Trainable Dynamic Subsampling for End-to-End Speech Recognition*  
+**Interspeech 2019**, Trainable Dynamic Subsampling for End-to-End Speech Recognition  
 Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals
 
-**ACL 2018**, *Stock Movement Prediction from Tweets and Historical Prices*  
+**ACL 2018**, Stock Movement Prediction from Tweets and Historical Prices  
 Yumo Xu and Shay B. Cohen  
 [[pdf]](http://aclweb.org/anthology/P18-1183)[[slides]](res/stocknet_slides.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[code]](https://github.com/yumoxu/stocknet-code)[[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib)  
 
