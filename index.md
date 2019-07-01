@@ -23,9 +23,8 @@ Yumo Xu and Mirella Lapata
 **Interspeech 2019 Accepted**, Trainable Dynamic Subsampling for End-to-End Speech Recognition  
 Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals
 
-**ACL 2018**, Stock Movement Prediction from Tweets and Historical Prices  
-Yumo Xu and Shay B. Cohen  
-[[pdf]](http://aclweb.org/anthology/P18-1183)[[slides]](res/stocknet_slides.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[code]](https://github.com/yumoxu/stocknet-code)[[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib)  
+**ACL 2018**, [Stock Movement Prediction from Tweets and Historical Prices](http://aclweb.org/anthology/P18-1183)  
+Yumo Xu and Shay B. Cohen  [[slides]](res/stocknet_slides.pdf)[[data]](https://github.com/yumoxu/stocknet-dataset)[[code]](https://github.com/yumoxu/stocknet-code)[[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib) 
 
 # Education
 
