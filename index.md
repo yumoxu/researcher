@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Welcome! I am a second-year PhD student in Natural Language Processing (NLP) at the University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and also a member of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be supervised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (principle) and [Dr. Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
+Welcome! I am a second-year PhD student in Natural Language Processing (NLP) at the University of Edinburgh. I am affiliated with [the Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) and also a member of [EdinburghNLP](http://edinburghnlp.inf.ed.ac.uk/). I am fortunate to be advised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (principle) and [Dr. Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/).
 
-Here is my [resume](<https://yumoxu.github.io/resume.pdf>). 
+You can find my resume [here](<https://yumoxu.github.io/resume.pdf>). 
 
 My office is at IF 3.34.   Check out my [Github](https://github.com/yumoxu), [LinkedIn](https://www.linkedin.com/in/yumo-xu-aa81aba5) and [Twitter](https://twitter.com/yumo_xu), or [email me](mailto:yumo.xu@ed.ac.uk).  
 
@@ -17,10 +17,10 @@ My office is at IF 3.34.   Check out my [Github](https://github.com/yumoxu), [Li
 I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to benefit natural language understanding from distant signals in weakly supervised settings and I am currently working on Multiple Instance Learning (MIL) for Domain Detection and Summarization.
 
 # Selected Publications
-**TACL 2019 Accepted**, Weakly Supervised Domain Detection  
+**TACL 2019 **Accepted, Weakly Supervised Domain Detection  
 Yumo Xu and Mirella Lapata
 
-**Interspeech 2019 Accepted**, Trainable Dynamic Subsampling for End-to-End Speech Recognition  
+**Interspeech 2019** Accepted, Trainable Dynamic Subsampling for End-to-End Speech Recognition  
 Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals
 
 **ACL 2018**, [Stock Movement Prediction from Tweets and Historical Prices](http://aclweb.org/anthology/P18-1183)  
