@@ -17,7 +17,7 @@ My office is at IF 3.34.   Check out my [Github](https://github.com/yumoxu), [Li
 I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to benefit natural language understanding from distant signals in weakly supervised settings and I am currently working on Multiple Instance Learning (MIL) for Domain Detection and Summarization.
 
 # Selected Publications
-**TACL 2019 **Accepted, Weakly Supervised Domain Detection  
+**TACL 2019** Accepted, Weakly Supervised Domain Detection  
 Yumo Xu and Mirella Lapata
 
 **Interspeech 2019** Accepted, Trainable Dynamic Subsampling for End-to-End Speech Recognition  
