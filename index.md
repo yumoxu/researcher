@@ -19,31 +19,31 @@ I am interested in both deep learning techniques and probabilistic models for NL
 # Selected Publications
 Weakly Supervised Domain Detection  
 Yumo Xu and Mirella Lapata  
-**TACL 2019**. 
+*TACL 2019*. 
 
 Trainable Dynamic Subsampling for End-to-End Speech Recognition  
 Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals  
-**Interspeech 2019**. 
+*Interspeech 2019*. 
 
 [Stock Movement Prediction from Tweets and Historical Prices](http://aclweb.org/anthology/P18-1183)  
 Yumo Xu and Shay B. Cohen  
-**ACL 2018**.  
+*ACL 2018*.  
 \[[slides](res/stocknet_slides.pdf)\] \[[data](https://github.com/yumoxu/stocknet-dataset)\] \[[code](https://github.com/yumoxu/stocknet-code)\] [[bib](https://aclanthology.info/papers/P18-1183/p18-1183.bib)]
 
 # Education
 
-Ph.D. student, School of Informatics, The University of Edinburgh, Mar. 2018 - Present  
-M.S. (with Distinction), School of Informatics, The University of Edinburgh, Nov. 2017  
-B.S., School of Informatics, University of International Business and Economics, July 2016  
-Winter session, HongKong University, Feb. 2015  
-Summer session, INSEAD, July 2014  
+*Ph.D. student*, School of Informatics, The University of Edinburgh, Mar. 2018 - Present  
+*M.S. (with Distinction)*, School of Informatics, The University of Edinburgh, Nov. 2017  
+*B.S.*, School of Informatics, University of International Business and Economics, July 2016  
+*Winter session*, HongKong University, Feb. 2015  
+*Summer session*, INSEAD, July 2014  
 
 # Industrial Experience
 
-Google NLP Summit, **Google AI Zurich**, July 2019  
-Internship, **Oracle China**, May 2016 - June 2016  
-SDE Internship (Big Data), **IBM China Development Lab**, Aug. 2015 - Jan. 2016  
-SDE Internship, **Wecash**, July 2014 - Nov. 2014
+*Google NLP Summit*, Google AI Zurich, July 2019  
+*Internship*, Oracle China, May 2016 - June 2016  
+*SDE Internship (Big Data)*, IBM China Development Lab, Aug. 2015 - Jan. 2016  
+*SDE Internship*, Wecash, July 2014 - Nov. 2014
 
 # Honors and Awards
 
