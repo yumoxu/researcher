@@ -27,8 +27,8 @@ Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals
 
 [Stock Movement Prediction from Tweets and Historical Prices](http://aclweb.org/anthology/P18-1183)  
 Yumo Xu and Shay B. Cohen  
-**ACL 2018**.
-[[slides]](res/stocknet_slides.pdf) [[data]](https://github.com/yumoxu/stocknet-dataset) [[code]](https://github.com/yumoxu/stocknet-code) [[bib]](https://aclanthology.info/papers/P18-1183/p18-1183.bib)  
+**ACL 2018**.  
+\[[slides](res/stocknet_slides.pdf)\] \[[data](https://github.com/yumoxu/stocknet-dataset)\] \[[code](https://github.com/yumoxu/stocknet-code)\] [[bib](https://aclanthology.info/papers/P18-1183/p18-1183.bib)]
 
 # Education
 
