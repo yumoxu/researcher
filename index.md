@@ -32,18 +32,18 @@ Yumo Xu and Shay B. Cohen
 
 # Education
 
-*Ph.D. student*, School of Informatics, The University of Edinburgh, Mar. 2018 - Present  
-*M.S. (with Distinction)*, School of Informatics, The University of Edinburgh, Nov. 2017  
-*B.S.*, School of Informatics, University of International Business and Economics, July 2016  
+Ph.D. candidate, School of Informatics, The University of Edinburgh, Mar. 2018 - Present  
+M.S. (with Distinction), School of Informatics, The University of Edinburgh, Nov. 2017  
+B.S., School of Informatics, University of International Business and Economics, July 2016  
 *Winter session*, HongKong University, Feb. 2015  
 *Summer session*, INSEAD, July 2014  
 
 # Industrial Experience
 
-*Google NLP Summit*, Google AI Zurich, July 2019  
-*Internship*, Oracle China, May 2016 - June 2016  
-*SDE Internship (Big Data)*, IBM China Development Lab, Aug. 2015 - Jan. 2016  
-*SDE Internship*, Wecash, July 2014 - Nov. 2014
+Google NLP Summit, Google AI Zurich, July 2019  
+Internship, Oracle China, May 2016 - June 2016  
+SDE Internship (Big Data), IBM China Development Lab, Aug. 2015 - Jan. 2016  
+SDE Internship, Wecash, July 2014 - Nov. 2014
 
 # Honors and Awards
 
