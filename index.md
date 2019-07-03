@@ -32,11 +32,11 @@ Yumo Xu and Shay B. Cohen
 
 # Education
 
-Ph.D. candidate, School of Informatics, The University of Edinburgh, Mar. 2018 - Present  
+Ph.D. Candidate, School of Informatics, The University of Edinburgh, Mar. 2018 - Present  
 M.S. (with Distinction), School of Informatics, The University of Edinburgh, Nov. 2017  
 B.S., School of Informatics, University of International Business and Economics, July 2016  
-*Winter session*, HongKong University, Feb. 2015  
-*Summer session*, INSEAD, July 2014  
+Winter Session, HongKong University, Feb. 2015  
+Summer Session, INSEAD, July 2014  
 
 # Industrial Experience
 
