@@ -20,7 +20,7 @@ I am interested in both deep learning techniques and probabilistic models for NL
 Weakly Supervised Domain Detection  
 Yumo Xu and Mirella Lapata  
 *TACL 2019*.  
-\[[data&code](https://github.com/yumoxu/detnet)\] [bib]
+\[[data & code](https://github.com/yumoxu/detnet)\] [bib]
 
 Trainable Dynamic Subsampling for End-to-End Speech Recognition  
 Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals  
