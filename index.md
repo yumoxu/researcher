@@ -17,7 +17,7 @@ My office is at IF 3.34.   Check out my [Github](https://github.com/yumoxu), [Li
 I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to benefit natural language understanding from distant signals in weakly supervised settings and I am currently working on Multiple Instance Learning (MIL) for Domain Detection and Summarization.
 
 # Selected Publications
-[Weakly Supervised Domain Detection](<https://arxiv.org/abs/1907.11499>)  
+[Weakly Supervised Domain Detection](<https://arxiv.org/pdf/1907.11499.pdf>)  
 Yumo Xu and Mirella Lapata  
 *TACL 2019*.  
 \[[data](https://github.com/yumoxu/detnet)\] \[[code](https://github.com/yumoxu/detnet)\]
