@@ -42,7 +42,7 @@ Summer Session, INSEAD, July 2014
 # Industrial Experience
 
 Google NLP Summit, Google AI Zurich, July 2019  
-Project Collaborator, Raytheon, March 2018 - Present  
+Project Collaboration ([IARPA MATERIAL](https://www.iarpa.gov/index.php/research-programs/material)), Raytheon, March 2018 - Present  
 Internship, Oracle China, May 2016 - June 2016  
 SDE Internship (Big Data), IBM China Development Lab, Aug. 2015 - Jan. 2016  
 SDE Internship, Wecash, July 2014 - Nov. 2014
