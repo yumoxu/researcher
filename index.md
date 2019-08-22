@@ -14,7 +14,7 @@ My office is at IF 3.34.   Check out my [Github](https://github.com/yumoxu), [Li
 
 # Research
 
-I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially text summarization and sentiment analysis. My long-term goal is to benefit natural language understanding from distant signals in weakly supervised settings and I am currently working on Multiple Instance Learning (MIL) for Domain Detection and Summarization.
+I am interested in both deep learning techniques and probabilistic models for NLP tasks, especially information retrieval, extraction and summarization. My long-term goal is to teach machine how to understand and generate human language from distant signals. Currently, I am working on Multiple Instance Learning (MIL) for Domain Detection and Summarization.
 
 # Selected Publications
 [Weakly Supervised Domain Detection](<https://arxiv.org/pdf/1907.11499.pdf>)  
