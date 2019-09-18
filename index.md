@@ -22,9 +22,10 @@ Yumo Xu and Mirella Lapata
 *TACL 2019*.  
 \[[data](https://github.com/yumoxu/detnet)\] \[[code](https://github.com/yumoxu/detnet)\]
 
-Trainable Dynamic Subsampling for End-to-End Speech Recognition  
+[Trainable Dynamic Subsampling for End-to-End Speech Recognition](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2778.pdf)  
 Shucong Zhang, Erfan Loweimi, Yumo Xu, Peter Bell and Steve Renals  
-*Interspeech 2019*. 
+*Interspeech 2019*.  
+[[code](https://github.com/qishuxiyou/dsRNN)]
 
 [Stock Movement Prediction from Tweets and Historical Prices](http://aclweb.org/anthology/P18-1183)  
 Yumo Xu and Shay B. Cohen  
